@@ -2,9 +2,6 @@
 
 _(Assignment adapted from Dr. John Ramirez’s CS 1501 class.)_
 
-Due: Monday April 19th @ 11:59pm on Gradescope
-
-Late submission deadline: Wednesday April 21st @11:59pm with 10% penalty per late day
 
 ## OVERVIEW
  
